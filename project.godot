@@ -14,6 +14,10 @@ config/name="斗地主"
 config/features=PackedStringArray("4.2", "Mobile")
 config/icon="res://icon.svg"
 
+[dotnet]
+
+project/assembly_name="斗地主"
+
 [rendering]
 
 renderer/rendering_method="mobile"
